@@ -1,0 +1,7 @@
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameLogic\obj\Debug\GameLogic.csprojAssemblyReference.cache
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameLogic\obj\Debug\GameLogic.pdb

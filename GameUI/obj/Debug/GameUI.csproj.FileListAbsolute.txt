@@ -1,0 +1,15 @@
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\bin\Debug\GameUI.exe.config
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\bin\Debug\GameUI.exe
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\bin\Debug\GameUI.pdb
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\bin\Debug\GameLogic.dll
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\bin\Debug\GameLogic.pdb
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\bin\Debug\GameLogic.dll.config
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\obj\Debug\GameUI.csprojAssemblyReference.cache
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\obj\Debug\GameUI.FormGameBoard.resources
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\obj\Debug\GameUI.FormLogin.resources
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\obj\Debug\GameUI.Properties.Resources.resources
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\obj\Debug\GameUI.exe
+C:\Users\אורטל\Downloads\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\C18 Ex05 MayaAdimor 203553342 OrtalNaor 205655665\GameUI\obj\Debug\GameUI.pdb
